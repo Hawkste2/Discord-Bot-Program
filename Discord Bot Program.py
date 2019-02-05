@@ -18,6 +18,7 @@ from datetime import timedelta
 from discord.ext import commands
 
 # global fields
+# This token is old and is no longer valid ;)
 token = 'NDY3MjA0NDkwODk1MDMyMzIw.DisQvw.PTOmql6rY-_I04z1gq5a0Cp_Wds'
 bot = commands.Bot(command_prefix='./')
 bot.remove_command("help")
